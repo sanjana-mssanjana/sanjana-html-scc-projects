@@ -1,2 +1,2 @@
-# sanjana-html-scc-projects
-Besic HTML,CSS projects
+# sanjana-javascript-projects
+Besic javascript projects
